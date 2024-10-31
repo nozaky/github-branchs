@@ -12,3 +12,5 @@ new push verified
 nuevo commit sin verificar
 
 Fichero editado en MAIN
+
+Fichero editado de nuevo, linea montero -> debe de estar si o sí
