@@ -12,3 +12,5 @@ new push verified
 nuevo commit sin verificar
 
 Fichero editado en MAIN
+
+Linea agregada por el segundo usuario -> Debe de estar si o sí
